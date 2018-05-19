@@ -21,7 +21,7 @@ public class UserController {
     @RequestMapping("getuser")
     public String getuser() {
         System.out.println("qqqq");
-        return "helloworld";
+        return "9091";
     }
 
     @RequestMapping("getAllUser")
